@@ -1,10 +1,10 @@
 {
-    "Users":[
+    "users":[
       {
         "id": 1,
         "username": "Reshid",
         "password": "505",
-        "type":"superadmin",
+        "type":"superadmin"
       }
     ],
     "chats": [
