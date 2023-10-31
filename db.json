@@ -1,0 +1,29 @@
+{
+    "chats": [
+      {
+        "id": 1,
+        "user": "Reshid",
+        "message": "Heil Hitler"
+      },
+      {
+        "id": 2,
+        "user": "Hitler",
+        "message": "Seit Monaten leiden wir alle unter der Qual eines Problems, das uns auch der Versailler Vertrag, d.h. das Versailler Diktat, einst beschert hat, eines Problems, das in seiner Ausartung und Entartung für uns unerträglich geworden war. Danzig war und ist eine deutsche Stadt! Der Korridor war und ist deutsch!"
+      },
+      {
+        "user": "Reshid",
+        "message": "asfafd",
+        "id": 3
+      },
+      {
+        "user": "Hitler",
+        "message": "salam reshid",
+        "id": 4
+      },
+      {
+        "user": "Reshid",
+        "message": "salam hitler",
+        "id": 5
+      }
+    ]
+  }
